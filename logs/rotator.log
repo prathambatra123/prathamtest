@@ -1,0 +1,26 @@
+10/04/2020 11:08:12: INFO: Found credentials in shared credentials file: ~/.aws/credentials
+10/04/2020 11:08:12: INFO: Rotating user with credential profile default
+10/04/2020 11:08:12: ERROR: Failing on reading config file with No section: 'default'
+10/04/2020 11:08:12: ERROR: the user access key rotation failed with 
+10/04/2020 11:08:12: ERROR: Failing in main file with local variable 'username' referenced before assignment
+10/04/2020 11:12:02: INFO: Found credentials in shared credentials file: ~/.aws/credentials
+10/04/2020 11:12:02: INFO: Rotating user with credential profile default
+10/04/2020 11:12:02: INFO: Old key getting rotared is : 'abcdefgh' 
+10/04/2020 11:12:02: ERROR: Failing on getting username for access key 'abcdefgh' with Parameter validation failed:
+Invalid length for parameter AccessKeyId, value: 10, valid range: 16-inf
+10/04/2020 11:12:02: ERROR: the user access key rotation failed with 
+10/04/2020 11:12:02: ERROR: Failing in main file with local variable 'username' referenced before assignment
+10/04/2020 11:13:05: INFO: Found credentials in shared credentials file: ~/.aws/credentials
+10/04/2020 11:13:05: INFO: Rotating user with credential profile default
+10/04/2020 11:13:05: INFO: Old key getting rotared is : 'abcdefgh' 
+10/04/2020 11:13:05: ERROR: Failing on getting username for access key 'abcdefgh' with Parameter validation failed:
+Invalid length for parameter AccessKeyId, value: 10, valid range: 16-inf
+10/04/2020 11:13:05: ERROR: the user access key rotation failed with 
+10/04/2020 11:13:05: ERROR: Failing in main file with local variable 'username' referenced before assignment
+10/04/2020 11:15:06: INFO: Found credentials in shared credentials file: ~/.aws/credentials
+10/04/2020 11:15:06: INFO: Rotating user with credential profile default
+10/04/2020 11:15:06: INFO: Old key getting rotared is : 'abcdefgh' 
+10/04/2020 11:15:06: ERROR: Failing on getting username for access key 'abcdefgh' with Parameter validation failed:
+Invalid length for parameter AccessKeyId, value: 10, valid range: 16-inf
+10/04/2020 11:15:06: ERROR: the user access key rotation failed with 
+10/04/2020 11:15:06: ERROR: Failing in main file with local variable 'username' referenced before assignment
